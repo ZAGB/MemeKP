@@ -1,2 +1,0 @@
-# MemeKP
-memeMode
